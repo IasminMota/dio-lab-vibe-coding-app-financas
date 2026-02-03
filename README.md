@@ -2,7 +2,7 @@
 
 ## Visão Geral
 O **Nossa Jornada Juntas** é um aplicativo de organização financeira para casais, especialmente voltado para mulheres que constroem sua vida juntas.  
-Ele funciona por meio de conversas em linguagem natural com Inteligência Artificial, permitindo registrar gastos e receitas, acompanhar metas e receber dicas personalizadas — tudo de forma simples, acolhedora e colaborativa.
+Ele funciona por meio de conversas em linguagem natural com Inteligência Artificial, permitindo registrar gastos e receitas, acompanhar metas e receber dicas personalizadas tudo de forma simples, acolhedora e colaborativa.
 
 A proposta é transformar o cuidado com o dinheiro em um processo leve e contínuo, conectado aos sonhos do casal (viagens, reserva de emergência, planos futuros), reduzindo atritos e evitando o controle manual cansativo.
 
