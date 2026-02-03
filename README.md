@@ -1,23 +1,35 @@
+
+```md
 # 💸 App Nossa Jornada Juntas
 
-## Visão Geral
-O **Nossa Jornada Juntas** é um aplicativo de organização financeira para casais, especialmente voltado para mulheres que constroem sua vida juntas.  
-Ele funciona por meio de conversas em linguagem natural com Inteligência Artificial, permitindo registrar gastos e receitas, acompanhar metas e receber dicas personalizadas tudo de forma simples, acolhedora e colaborativa.
-
-A proposta é transformar o cuidado com o dinheiro em um processo leve e contínuo, conectado aos sonhos do casal (viagens, reserva de emergência, planos futuros), reduzindo atritos e evitando o controle manual cansativo.
+Projeto desenvolvido como parte do desafio da DIO sobre Vibe Coding, Inteligência Artificial e desenvolvimento de aplicações web.
 
 ---
 
-## Contexto
-Quero criar um aplicativo de Organização de Finanças Pessoais para casais, especialmente voltado para mulheres que constroem sua vida juntas, chamado **Nossa Jornada Juntas**.
+## 📌 Visão Geral
+O **Nossa Jornada Juntas** é um aplicativo de organização financeira para casais,
+especialmente voltado para mulheres que constroem sua vida juntas.
 
-O aplicativo funcionará por meio de conversas com o usuário, utilizando Inteligência Artificial para facilitar o controle financeiro de forma simples, natural e acolhedora, sem formulários manuais ou planilhas complexas.
+Ele funciona por meio de conversas em linguagem natural com Inteligência Artificial, permitindo registrar gastos, 
+acompanhar metas e receber dicas personalizadas, tudo de forma simples, acolhedora e colaborativa.
 
-A proposta é transformar o cuidado com o dinheiro em um processo leve, colaborativo e conectado aos sonhos do casal.
+A proposta é transformar o cuidado com o dinheiro em um processo leve, conectado aos sonhos do casal, 
+como viagens, reserva de emergência e planos futuros.
 
 ---
 
-## Problema
+## 📖 Contexto
+Criei este projeto com o objetivo de desenvolver um aplicativo de Organização de Finanças Pessoais para casais,
+utilizando conceitos básicos de **design de produto, experiência do usuário (UX) e integração com IA**.
+
+O aplicativo foi pensado para funcionar por meio de uma **interface conversacional**, 
+utilizando Inteligência Artificial para facilitar o controle financeiro, sem a necessidade de formulários ou planilhas complexas.
+
+A ideia principal foi estruturar uma solução com foco em **usabilidade, simplicidade e automação de processos**.
+
+---
+
+## ❗ Problema
 Muitas pessoas e casais desistem de controlar seus gastos porque:
 
 - Os aplicativos exigem muita entrada manual;
@@ -26,93 +38,105 @@ Muitas pessoas e casais desistem de controlar seus gastos porque:
 - Não consideram a dinâmica de um casal;
 - Tornam o processo cansativo.
 
-Além disso, a maioria dos apps financeiros não possui uma abordagem emocional e inclusiva, o que afasta parte do público.
+Além disso, a maioria dos aplicativos financeiros não possui uma abordagem emocional e inclusiva,
+o que acaba afastando parte do público.
 
-Quero resolver isso oferecendo uma experiência baseada em conversa, com recomendações automáticas de economia e incentivo à parceria financeira.
+Com este projeto, busquei resolver esse problema por meio de uma experiência baseada em conversa, 
+utilizando **processamento de linguagem natural (NLP)** e recomendações automáticas.
 
 ---
 
-## Público-Alvo
+## 👥 Público-Alvo
 - Casais femininos;
 
-Principal foco: iniciantes que desejam começar a organizar suas finanças sem complicação.
+O principal foco são usuárias que desejam começar a organizar suas finanças sem complicação.
 
 ---
 
-## Funcionalidades-Chave
+## ⚙️ Funcionalidades-Chave
 
-### 1️⃣ Registrar gastos via chat em linguagem natural
-O usuário poderá enviar mensagens como:  
+### 1️⃣ Registro de gastos via chat
+O usuário pode enviar mensagens como:  
 “Gastei 60 no mercado hoje” ou “Pagamos 150 no jantar”.
 
-A IA interpretará automaticamente os dados.
+A IA interpreta automaticamente os dados utilizando técnicas de **NLP (Processamento de Linguagem Natural)**.
 
 ---
 
-### 2️⃣ Classificar automaticamente as transações
-As despesas e receitas serão organizadas por categorias como:  
-Alimentação, Moradia, Lazer, Saúde, Transporte e Outros.
+### 2️⃣ Classificação automática
+As despesas e receitas são organizadas por categorias por meio de **regras automatizadas e análise semântica**.
 
 ---
 
-### 3️⃣ Definir e acompanhar metas financeiras
-O casal poderá criar metas como:  
+### 3️⃣ Metas financeiras
+O casal pode criar metas como:  
 “Economizar para viajar” ou “Guardar para emergência”.
 
-A IA acompanhará o progresso.
+A IA acompanha o progresso utilizando **lógica de negócio simples e automação**.
 
 ---
 
-### 4️⃣ Receber dicas do Agente Financeiro
-Um assistente virtual oferecerá orientações personalizadas, motivadoras e não julgadoras.
+### 4️⃣ Agente Financeiro
+Um assistente virtual funciona como um **chatbot inteligente**, 
+oferecendo orientações personalizadas, motivadoras e não julgadoras.
 
 Exemplo:  
 “Vocês gastaram mais com delivery esta semana. Que tal cozinhar juntas dois dias?”
 
 ---
 
-### 5️⃣ Visualizar relatórios simples e personalizados
-O app apresentará:
+### 5️⃣ Relatórios e visualizações
+O aplicativo apresenta:
 
 - Gráficos mensais;
 - Resumo semanal;
 - Progresso das metas;
 - Distribuição por categoria.
 
-Tudo de forma clara e visual.
+Essas informações são geradas a partir do **processamento dos dados armazenados**.
 
 ---
 
-## Entregável da IA
-A Inteligência Artificial deverá gerar:
+## 📦 Entregável da IA
+A Inteligência Artificial foi utilizada para gerar:
 
-- Um plano de MVP com as principais funcionalidades;
-- O fluxo conceitual das telas;
+- Um plano de MVP;
+- O fluxo conceitual das telas (wireframes);
 - Os recursos necessários para implementação;
 - Um esboço de validação inicial;
 - Sugestões de melhoria futura.
 
-O conteúdo deve ser apresentado em português, com tom educativo, acessível e organizado.
+Todo o conteúdo foi gerado em português, com foco em **boas práticas de documentação e versionamento no GitHub**.
 
-Resultado final no Lovable: https://nossa-jornada-juntas.lovable.app
+---
 
-<img width="1099" height="840" alt="image" src="https://github.com/user-attachments/assets/05ad494b-e0a4-4f43-8d31-396983b0f528" />
-<img width="1889" height="674" alt="image" src="https://github.com/user-attachments/assets/aac875bb-8094-45d8-afec-3db3ece845c1" />
-<img width="589" height="776" alt="image" src="https://github.com/user-attachments/assets/42d01e60-a5f1-4b2e-80f5-9c575fffa4a3" />
+## 🚀 Resultado Final no Lovable
+A aplicação foi gerada utilizando a plataforma Lovable, simulando um ambiente de **desenvolvimento full stack automatizado**.
+
+🔗 https://nossa-jornada-juntas.lovable.app
+
+---
+
+## 🖼️ Prints do Projeto
+<img width="1866" height="783" alt="image" src="https://github.com/user-attachments/assets/58fa5e3e-a152-4b7f-89a2-b978f6562082" />
+<img width="566" height="846" alt="image" src="https://github.com/user-attachments/assets/6e7e40cf-792a-4198-876f-e0b245add021" />
+
 
 
 ## 💭 Reflexão sobre o Processo
 
 ### ✅ O que funcionou bem?
 A criação do PRD utilizando Vibe Coding facilitou a organização das ideias e a comunicação com a IA.  
-A definição clara do contexto, do público-alvo e das funcionalidades ajudou a gerar respostas mais alinhadas com o objetivo do projeto.
+A definição clara do contexto, do público-alvo e das funcionalidades ajudou
+a gerar respostas mais alinhadas com o objetivo do projeto.
 
 O uso de prompts bem estruturados permitiu explorar melhor o potencial das ferramentas de IA.
 
 ---
 
 ### ⚠️ O que não funcionou como o esperado?
-Em alguns momentos, as respostas da IA foram genéricas ou precisaram de ajustes para se adequarem ao propósito emocional e colaborativo do aplicativo.
+Em alguns momentos, as respostas da IA foram genéricas ou precisaram de ajustes para se adequarem ao propósito emocional
+e colaborativo do aplicativo.
 
 Também foi necessário refinar os prompts várias vezes até atingir o nível de detalhe desejado.
 
@@ -122,7 +146,8 @@ Também foi necessário refinar os prompts várias vezes até atingir o nível d
 Aprendi que a qualidade das respostas depende diretamente da clareza das instruções.
 
 Quanto mais detalhado, organizado e contextualizado é o prompt, melhores são os resultados.  
-Além disso, percebi que a IA funciona como uma parceira criativa, que precisa ser guiada, revisada e ajustada constantemente.
+Além disso, percebi que a IA funciona como uma parceira criativa, 
+que precisa ser guiada, revisada e ajustada constantemente.
 
 O Vibe Coding mostrou que saber pedir é tão importante quanto saber programar.
 
