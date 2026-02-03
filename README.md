@@ -34,9 +34,6 @@ Quero resolver isso oferecendo uma experiência baseada em conversa, com recomen
 
 ## Público-Alvo
 - Casais femininos;
-- Pessoas que dividem despesas;
-- Usuárias iniciantes em educação financeira;
-- Pessoas que buscam praticidade;
 - Usuárias que preferem interação por chat.
 
 Principal foco: iniciantes que desejam começar a organizar suas finanças sem complicação.
