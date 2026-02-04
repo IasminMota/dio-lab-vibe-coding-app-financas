@@ -2,7 +2,8 @@
 ```md
 # 💸 App Nossa Jornada Juntas
 
-Projeto desenvolvido como parte do desafio da DIO sobre Vibe Coding, Inteligência Artificial e desenvolvimento de aplicações web.
+Projeto desenvolvido como parte do desafio da DIO sobre Vibe Coding, 
+Inteligência Artificial e desenvolvimento de aplicações web.
 
 ---
 
